@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <h1>Daily Meal Plan</h1>
+ <h2>1. Breakfast </h2>
+ 
+ <ul>
+   <li>Main Dish: pancakes</li>
+   <ul>
+     <li>Maple Syrup</li>
+     <li>Fresh Berries </li>
+     <li>Whipped Cream</li>
+   </ul>
+   <li>Side: Fruit Salad</li>
+   <li>Drink: Orange juice </li>
+ </ul>
+ <h2>2. Lunch </h2>
+ <ul>
+   <li>Main course: Build-your-Own Sandwich</li>
+   <ol>
+     <li>start with two slices of Sourdough Bread</li>
+     <li>Add a layer of Turkey slices </li>
+     <li>Place Swiss Cheese on top</li>
+     <li>Finish with lettuce and tomato </li>
+   </ol>
+   <li>Side: Potato chips</li>
+   <li>Beverage: Iced tea</li>
+ </ul>
+ <h2>3. Dinner</h2>
+ <ul>
+   <li>Appetizer: Garlic bread </li>
+   <li>Main course: spagheti bolognese</li>
+   <ol>
+     <li>First,plate the cooked spaghetti </li>
+     <li>Next,ladle the bolognese sauce over the pasta</li>
+     <li>Finally,Sprinkle with grated parmesan cheese</li>
+   </ol>
+   <li>Dessert : Tiramisu </li>
+ </ul>
+</head>
+
+<body>
+  
+</body>
+</html>
